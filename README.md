@@ -8,7 +8,8 @@ Software Engineer | Full-Stack Engineer| Problem-Solver
 - 📫 Know about my Experience- https://drive.google.com/file/d/1NGi1PnuWbZ3KJh6nIbWMwo3--xDi8DQh/view?usp=drive_link
 
 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayatri-jadhav-887a75246/)
+
+[!(https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayatri-jadhav-887a75246/)
 
 
 

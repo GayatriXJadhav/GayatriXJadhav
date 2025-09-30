@@ -9,7 +9,8 @@ Software Engineer | Full-Stack Engineer| Problem-Solver
 
 Connect with me:
 
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/gayatri-jadhav-887a75246/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />](https://www.linkedin.com/in/gayatri-jadhav-887a75246/)
+
 
 
 

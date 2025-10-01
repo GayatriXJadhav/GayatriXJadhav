@@ -1,4 +1,4 @@
-## Hi there👋🏻 I'm Gayatri �
+## Hi there👋🏻 I'm Gayatri 
 Software Engineer | Full-Stack Engineer| Problem-Solver
 
 

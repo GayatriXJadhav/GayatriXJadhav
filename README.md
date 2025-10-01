@@ -9,6 +9,7 @@ Software Engineer | Full-Stack Engineer| Problem-Solver
 
 Connect with me:
 
+[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45" />](mailto:gayatrijadhav1202@gmail.com)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />](https://www.linkedin.com/in/gayatri-jadhav-887a75246/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30"/>](https://leetcode.com/u/gayatrijadhav1202/)
 

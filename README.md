@@ -13,6 +13,7 @@ Connect with me:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30"/>](https://leetcode.com/u/gayatrijadhav1202/)
 
 Languages and Tools:
+
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
